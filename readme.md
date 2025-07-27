@@ -31,7 +31,7 @@ cd yumi-chatbot
 ------------------------------------
 
 
-![Yumi Chatbot Banner](path-to-your-screenshot.png) <!-- Replace with actual image path -->
+![Yumi Chatbot Banner](https://github.com/shivanshu099/yumi_sama_version_v.1/blob/main/yumi_1.png)
 
 
 
